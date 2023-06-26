@@ -1,6 +1,0 @@
-name: Sample S3 Webpage hosting
-on:
- push:
-  branches: [ "dev" ]
- pull_request:
-  branches: [ "main" ]
